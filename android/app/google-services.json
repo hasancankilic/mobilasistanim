@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321731963959",
+    "project_id": "mobil-asistan-1a5b7",
+    "storage_bucket": "mobil-asistan-1a5b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321731963959:android:36935e0c35ace3bb2be3b2",
+        "android_client_info": {
+          "package_name": "com.example.proje_ilk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuVIHtzqZO6QmtOoQkYvEQzKJs_62_3y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
